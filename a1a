@@ -1,0 +1,4 @@
+--data_recovery
+local coreget = game.Players.LocalPlayer.PlayerScripts.CoreClient
+coreget:GetChildren()
+coreget:Destroy()
